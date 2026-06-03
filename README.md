@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/alexvu05/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
