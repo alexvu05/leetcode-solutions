@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/alexvu05/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
