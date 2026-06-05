@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/alexvu05/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -43,4 +45,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
