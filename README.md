@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/alexvu05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/alexvu05/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/alexvu05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
