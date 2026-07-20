@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/alexvu05/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/alexvu05/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/alexvu05/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/alexvu05/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/alexvu05/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/alexvu05/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
