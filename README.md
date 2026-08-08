@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/alexvu05/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/alexvu05/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/alexvu05/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/alexvu05/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/alexvu05/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/alexvu05/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/alexvu05/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alexvu05/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alexvu05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
