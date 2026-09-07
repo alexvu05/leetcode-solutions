@@ -4,6 +4,7 @@ func distinctSubseqII(s string) int {
     // (the number of distinct subsequences BEFORE that occurrence was processed)
     last := [26]int{}  // initialized to 0
     dp := 0  // number of distinct non-empty subsequences so far
+
     for _, c := range s {
         idx := c - 'a'
         // New dp = 2*dp + 1 - last[idx]
@@ -15,5 +16,6 @@ func distinctSubseqII(s string) int {
         last[idx] = (dp + 1) % MOD  // dp+1 because we include c-alone subseq
         dp = newDp
     }
+    
     return dp
 }
