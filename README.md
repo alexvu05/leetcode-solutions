@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/alexvu05/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/alexvu05/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/alexvu05/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/alexvu05/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/alexvu05/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/alexvu05/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/alexvu05/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Game Theory
 |  |
