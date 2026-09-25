@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/alexvu05/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/alexvu05/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alexvu05/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/alexvu05/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alexvu05/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/alexvu05/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/alexvu05/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/alexvu05/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/alexvu05/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/alexvu05/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alexvu05/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/alexvu05/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/alexvu05/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/alexvu05/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alexvu05/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/alexvu05/leetcode-solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/alexvu05/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/alexvu05/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/alexvu05/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/alexvu05/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/alexvu05/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/alexvu05/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/alexvu05/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
