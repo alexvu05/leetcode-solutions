@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/alexvu05/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/alexvu05/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alexvu05/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alexvu05/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/alexvu05/leetcode-solutions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alexvu05/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/alexvu05/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/alexvu05/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/alexvu05/leetcode-solutions/tree/master/0877-stone-game) |
